@@ -1,0 +1,12 @@
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/services/impl/EnderecoServiceImpl.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/services/impl/CepServiceImpl.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/config/RedisConfig.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/models/Endereco.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/controllers/CepController.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/services/EnderecoService.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/repositories/JDBCEnderecoRepository.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/client/ViaCepClient.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/FoodToSaveApiCepApplication.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/repositories/EnderecoRepository.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/services/CepService.java
+/Users/julioescobar/Julio/Food to save/v1/food-to-save-api-cep/src/main/java/com/foodtosave/models/EnderecoViaCepDTO.java
